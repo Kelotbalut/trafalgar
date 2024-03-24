@@ -1,0 +1,25 @@
+body {
+  font-family: "Mulish";
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #1f1534;
+  padding: 8px;
+  margin: auto 8px;
+}
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+}
